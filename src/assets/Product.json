@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Analog Watch",
+    "description": "Stylish leather strap watch with stainless steel dial.",
+    "price": 1499,
+    "category": "Watches",
+    "brand": "Fastrack",
+    "stock": 30,
+    "ratings": 4.3,
+    "reviews": 112,
+    "images": [
+      "https://tse3.mm.bing.net/th?id=OIP.xNx2-aJLplkBRWxY4WJ7NAHaHa&pid=Api&P=0&h=180",
+      "https://static-assets-web.flixcart.com/www/linchpin/batman-returns/images/fk-default-image-75ff340b.png?q=90"
+    ],
+    "color": "Black",
+    "size": []
+  },
+  {
+    "id": 2,
+    "name": "Samsung 43-inch Smart TV",
+    "description": "Full HD LED Smart TV with built-in apps and voice control.",
+    "price": 28999,
+    "category": "Electronics",
+    "brand": "Samsung",
+    "stock": 12,
+    "ratings": 4.6,
+    "reviews": 502,
+    "images": [
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/j/x/p/-original-imagvpakjgykcytm.jpeg?q=70&crop=false",
+      "https://m.media-amazon.com/images/I/91K7Uou2z1L._SL1500_.jpg"
+    ],
+    "color": "Black",
+    "size": [
+      "43 inch"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Men's Casual Shirt",
+    "description": "Cotton casual shirt for everyday use.",
+    "price": 799,
+    "category": "Men's Clothing",
+    "brand": "Levi's",
+    "stock": 50,
+    "ratings": 4.2,
+    "reviews": 128,
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/n/o/z/-original-imah76jstup5zdww.jpeg?q=70",
+      "https://m.media-amazon.com/images/I/71lFyyPSAnL._UL1500_.jpg"
+    ],
+    "color": "Blue",
+    "size": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Wireless Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with powerful bass.",
+    "price": 2499,
+    "category": "Audio",
+    "brand": "boAt",
+    "stock": 45,
+    "ratings": 4.4,
+    "reviews": 210,
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/z/r/d/-original-imagywnzhh3dnqvk.jpeg?q=70",
+      "https://m.media-amazon.com/images/I/81JvqvO3X1L._SL1500_.jpg"
+    ],
+    "color": "Red",
+    "size": []
+  },
+  {
+    "id": 5,
+    "name": "Women's Handbag",
+    "description": "Elegant leather handbag for office and casual use.",
+    "price": 1399,
+    "category": "Accessories",
+    "brand": "Lino Perros",
+    "stock": 25,
+    "ratings": 4.1,
+    "reviews": 97,
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/u/q/h/-original-imagx8nhjwxfayhj.jpeg?q=70",
+      "https://m.media-amazon.com/images/I/71JHgyNuOAL._UL1500_.jpg"
+    ],
+    "color": "Brown",
+    "size": []
+  },
+  {
+    "id": 6,
+    "name": "Gaming Keyboard",
+    "description": "Mechanical RGB gaming keyboard with custom switches.",
+    "price": 2999,
+    "category": "Computers",
+    "brand": "Redragon",
+    "stock": 34,
+    "ratings": 4.5,
+    "reviews": 233,
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/b/n/s/-original-imahbquzsdgnfxjy.jpeg?q=70",
+      "https://m.media-amazon.com/images/I/61g6W0PtLKL._SL1500_.jpg"
+    ],
+    "color": "Black",
+    "size": []
+  },
+  {
+    "id": 7,
+    "name": "Women's Ethnic Kurti",
+    "description": "Rayon printed kurti for festive occasions.",
+    "price": 899,
+    "category": "Women's Clothing",
+    "brand": "Biba",
+    "stock": 18,
+    "ratings": 4.3,
+    "reviews": 87,
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/z/f/6/-original-imah759hrk24uyjw.jpeg?q=70",
+      "https://m.media-amazon.com/images/I/51c5VIt0kAL._UY741_.jpg"
+    ],
+    "color": "Maroon",
+    "size": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Fitness Band",
+    "description": "Waterproof smart fitness band with heart rate monitor.",
+    "price": 1799,
+    "category": "Wearables",
+    "brand": "Mi",
+    "stock": 38,
+    "ratings": 4.0,
+    "reviews": 192,
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/g/4/g/-original-imah9qsmzb9gxjzj.jpeg?q=70",
+      "https://m.media-amazon.com/images/I/71vZypjNkJL._SL1500_.jpg"
+    ],
+    "color": "Black",
+    "size": []
+  },
+  {
+    "id": 9,
+    "name": "Laptop Backpack",
+    "description": "Water-resistant backpack with laptop compartment.",
+    "price": 1099,
+    "category": "Bags",
+    "brand": "Skybags",
+    "stock": 22,
+    "ratings": 4.2,
+    "reviews": 143,
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/d/k/o/51-05-se-halo-pro-red-android-ios-shopevolves-yes-original-imah4mae3zpypb2y.jpeg?q=70",
+      "https://m.media-amazon.com/images/I/81fAdilg0UL._UL1500_.jpg"
+    ],
+    "color": "Grey",
+    "size": []
+  },
+  {
+    "id": 10,
+    "name": "Air Fryer",
+    "description": "Oil-free cooking appliance with digital timer.",
+    "price": 4999,
+    "category": "Home Appliances",
+    "brand": "Philips",
+    "stock": 15,
+    "ratings": 4.6,
+    "reviews": 268,
+    "images": [
+      "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/q/t/b/35-306-wrb-sw-twistgo-std-gld-pnk-android-ios-noise-yes-original-imah889pdgvzc2my.jpeg?q=70",
+      "https://m.media-amazon.com/images/I/71Oe0v2zbuL._SL1500_.jpg"
+    ],
+    "color": "Black",
+    "size": []
+  }
+]
