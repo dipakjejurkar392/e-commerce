@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import Navbar from '../component/Navbar';
 
 const Registration = () => {
-  let navigate = useNavigate()
+    const navigate = useNavigate();
     let [user,setUser] = useState({
       name:'',
       email:'',

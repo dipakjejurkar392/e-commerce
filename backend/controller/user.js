@@ -14,7 +14,7 @@ let registration =  async (req, res) => {
         let hashedPassword = await bcrypt.hash(password, 10)
         let user = new User({ name, email, password: hashedPassword })
         await user.save()
-       res.json({message:"registration sucessfully"})
+       res.json({ success:true ,message:"registration sucessfully"})
 
     } catch (error) {
         res.json({ success: false, message: error.message })
