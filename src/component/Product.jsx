@@ -38,9 +38,9 @@ const Product = () => {
              <div className="alert alert-primary ">
                {/* <button className="btn btn-light">Electronic</button> */}
                {
-                 unique_cat_array.map((c)=>{
+                 unique_cat_array.map((c,index)=>{
                    return (
-                     <button className="btn btn-warning mx-3" onClick={()=>setCat(c)}>{c}</button>
+                     <button key={index} className="btn btn-warning mx-3" onClick={()=>setCat(c)}>{c}</button>
                    )
                  })  
                }
