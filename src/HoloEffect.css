@@ -1,0 +1,45 @@
+.holo-card {
+  background-color: #040712;
+  transform-style: preserve-3d;
+  transition: transform 0.3s;
+  position: relative;
+}
+
+.holo-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    circle at var(--x, 50%) var(--y, 50%),
+    rgba(255, 255, 255, 0.3),
+    transparent 60%
+  );
+  opacity: 0;
+  transition: opacity 0.3s;
+  mix-blend-mode: color-dodge;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.holo-card:hover::before {
+  opacity: 0.7;
+}
+
+.holo-glow {
+  position: absolute;
+  inset: 0;
+  background: url('https://assets.codepen.io/13471/sparkles.gif'), 
+              linear-gradient(120deg, #ff00e0, #00fff7);
+  background-size: 200%, 100%;
+  mix-blend-mode: color-dodge;
+  opacity: 0.5;
+  pointer-events: none;
+  z-index: 1;
+  animation: sparkle 5s infinite linear;
+  border-radius: inherit;
+}
+
+@keyframes sparkle {
+  0% { background-position: 0% 0%; }
+  100% { background-position: 100% 100%; }
+}

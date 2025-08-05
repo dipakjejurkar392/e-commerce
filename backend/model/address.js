@@ -3,6 +3,12 @@ let mongoose = require('mongoose');
   const AutoIncrement = require('mongoose-sequence')(mongoose);
 
 let addressSchema = new mongoose.Schema({
+
+    userId:{
+      type: mongoose.Schema.Types.ObjectId,
+      require:true,
+      ref:"users"
+    },
     fullname:String,
     mobile:Number,
     address:String,
